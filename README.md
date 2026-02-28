@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋 I'm Amit Nagar
 
-<!--
-**amitnagar19/amitnagar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer who loves building things for the web. I spend most of my time on the frontend but I'm no stranger to the backend either.
 
-Here are some ideas to get you started:
+## 🛠️ What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, TypeScript
+- **Backend:** Node.js, C#
+- Whatever else gets the job done ✨
+
+## 🌍 When I'm not coding
+
+- Exploring new places 🧳
+- Experimenting in the kitchen 👨‍🍳
+- Out on my bike 🚴
+- Smashing on the badminton court 🏸
+
+## 📫 Let's connect
+
+Feel free to check out my repos or reach out if you want to chat about code, travel recommendations, or your favorite recipe!
+
+---
+
+*"First, solve the problem. Then, write the code."*
